@@ -1,0 +1,38 @@
+.conteiner {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.butoon {
+  text-decoration: none;
+  background-color: black;
+  font-size: 90px;
+  color: white;
+  border-radius: 15px;
+  padding: 30px 40px;
+}
+.butoon:hover {
+  background-color: rgb(175, 126, 221);
+}
+.butoon-contact {
+  text-decoration: none;
+  background-color: black;
+  font-size: 90px;
+  color: white;
+  border-radius: 15px;
+  padding: 30px 40px;
+}
+.butoon-contact:hover {
+  background-color: rgb(175, 126, 221);
+}
+.butoon-frog {
+  text-decoration: none;
+  background-color: black;
+  font-size: 90px;
+  color: white;
+  border-radius: 15px;
+  padding: 30px 40px;
+}
+.butoon-frog:hover {
+  background-color: rgb(175, 126, 221);
+}
